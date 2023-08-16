@@ -40,3 +40,5 @@ function Factory() {
       }
    }
 }
+
+console.log('Hello world');
